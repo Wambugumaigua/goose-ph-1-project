@@ -37,4 +37,4 @@ GitHub
 ## License 
 The content of this site is licensed under the MIT license
 Copyright (c) 2024.
-# goose-ph-1-project
+# wambugumaigua phase-1-project
