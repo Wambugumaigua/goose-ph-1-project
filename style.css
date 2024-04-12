@@ -1,0 +1,48 @@
+.toggle-btn {
+    cursor: pointer;
+    padding: 5px 10px;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+  }
+  
+  .dark-mode {
+    background-color: black;
+    color: white;
+  }
+  
+  #search-input {
+    padding: 8px 10px;
+    border: 1px solid whitesmoke;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    width: 300px; 
+    text-align: center;
+  }
+  body{
+    background-color: goldenrod;
+    text-align: centre;
+    text-align: center;
+  }
+  h{
+    text-align: center;
+    color:darkred;
+
+  }
+  p{
+    color: blue;
+    text-align: center;
+  }
+  p{
+    border: 2px solid black;
+    text-align: center;
+    width: 300px;
+    height: 20px;
+    padding: 40px;
+    border-radius: 20px;
+    background-color: aquamarine;
+    
+  }
+  
