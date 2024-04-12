@@ -23,7 +23,7 @@ git@github.com:Wambugumaigua/goose-ph-1-project.git
 
 
 ## Live link
-
+ https://wambugumaigua.github.io/goose-ph-1-project/
 
 ## Technologies used
 HTML
